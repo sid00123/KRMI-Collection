@@ -1,0 +1,1003 @@
+############################################
+# YUN_KMT entity clones -> CHI models
+# Auto-generated from zzz_CHI_infantry_asset.asset
+############################################
+
+entity = {
+    name = "YUN_KMT_militia_entity"
+    clone = "CHI_militia_entity"
+}
+
+entity = {
+    name = "YUN_KMT_militia_entity_desert"
+    clone = "CHI_militia_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_militia_entity_snow"
+    clone = "CHI_militia_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_irregular_infantry_entity"
+    clone = "CHI_irregular_infantry_entity"
+}
+
+entity = {
+    name = "YUN_KMT_irregular_infantry_entity_desert"
+    clone = "CHI_irregular_infantry_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_irregular_infantry_entity_snow"
+    clone = "CHI_irregular_infantry_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_entity"
+    clone = "CHI_infantry_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_entity_desert"
+    clone = "CHI_infantry_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_entity_snow"
+    clone = "CHI_infantry_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_0_entity"
+    clone = "CHI_infantry_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_0_entity_desert"
+    clone = "CHI_infantry_0_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_0_entity_snow"
+    clone = "CHI_infantry_0_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_1_entity"
+    clone = "CHI_infantry_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_1_entity_desert"
+    clone = "CHI_infantry_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_1_entity_snow"
+    clone = "CHI_infantry_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_2_entity"
+    clone = "CHI_infantry_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_2_entity_desert"
+    clone = "CHI_infantry_2_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_2_entity_snow"
+    clone = "CHI_infantry_2_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_3_entity"
+    clone = "CHI_infantry_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_3_entity_desert"
+    clone = "CHI_infantry_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_3_entity_snow"
+    clone = "CHI_infantry_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_4_entity"
+    clone = "CHI_infantry_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_4_entity_desert"
+    clone = "CHI_infantry_4_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_4_entity_snow"
+    clone = "CHI_infantry_4_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_5_entity"
+    clone = "CHI_infantry_5_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_5_entity_desert"
+    clone = "CHI_infantry_5_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_5_entity_snow"
+    clone = "CHI_infantry_5_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_0_entity"
+    clone = "CHI_infantry_rider_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_0_entity_desert"
+    clone = "CHI_infantry_rider_0_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_0_entity_snow"
+    clone = "CHI_infantry_rider_0_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_1_entity"
+    clone = "CHI_infantry_rider_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_1_entity_desert"
+    clone = "CHI_infantry_rider_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_1_entity_snow"
+    clone = "CHI_infantry_rider_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_2_entity"
+    clone = "CHI_infantry_rider_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_2_entity_desert"
+    clone = "CHI_infantry_rider_2_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_2_entity_snow"
+    clone = "CHI_infantry_rider_2_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_3_entity"
+    clone = "CHI_infantry_rider_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_3_entity_desert"
+    clone = "CHI_infantry_rider_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_3_entity_snow"
+    clone = "CHI_infantry_rider_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_4_entity"
+    clone = "CHI_infantry_rider_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_4_entity_desert"
+    clone = "CHI_infantry_rider_4_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_infantry_rider_4_entity_snow"
+    clone = "CHI_infantry_rider_4_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_entity"
+    clone = "CHI_cavalry_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_entity_desert"
+    clone = "CHI_cavalry_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_entity_snow"
+    clone = "CHI_cavalry_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_0_entity"
+    clone = "CHI_cavalry_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_0_combined_entity"
+    clone = "CHI_cavalry_0_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_0_entity_desert"
+    clone = "CHI_cavalry_0_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_0_combined_entity_desert"
+    clone = "CHI_cavalry_0_combined_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_0_entity_snow"
+    clone = "CHI_cavalry_0_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_0_combined_entity_snow"
+    clone = "CHI_cavalry_0_combined_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_1_entity"
+    clone = "CHI_cavalry_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_1_combined_entity"
+    clone = "CHI_cavalry_1_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_1_entity_desert"
+    clone = "CHI_cavalry_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_1_combined_entity_desert"
+    clone = "CHI_cavalry_1_combined_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_1_entity_snow"
+    clone = "CHI_cavalry_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_1_combined_entity_snow"
+    clone = "CHI_cavalry_1_combined_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_2_entity"
+    clone = "CHI_cavalry_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_2_combined_entity"
+    clone = "CHI_cavalry_2_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_2_entity_desert"
+    clone = "CHI_cavalry_2_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_2_combined_entity_desert"
+    clone = "CHI_cavalry_2_combined_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_2_entity_snow"
+    clone = "CHI_cavalry_2_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_2_combined_entity_snow"
+    clone = "CHI_cavalry_2_combined_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_3_entity"
+    clone = "CHI_cavalry_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_3_combined_entity"
+    clone = "CHI_cavalry_3_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_3_entity_desert"
+    clone = "CHI_cavalry_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_3_combined_entity_desert"
+    clone = "CHI_cavalry_3_combined_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_3_entity_snow"
+    clone = "CHI_cavalry_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_3_combined_entity_snow"
+    clone = "CHI_cavalry_3_combined_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_4_combined_entity"
+    clone = "CHI_cavalry_4_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_4_combined_entity_desert"
+    clone = "CHI_cavalry_4_combined_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_4_combined_entity_snow"
+    clone = "CHI_cavalry_4_combined_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_5_combined_entity"
+    clone = "CHI_cavalry_5_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_5_combined_entity_desert"
+    clone = "CHI_cavalry_5_combined_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_cavalry_5_combined_entity_snow"
+    clone = "CHI_cavalry_5_combined_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_rifle_0_entity"
+    clone = "CHI_vehicle_infantry_rifle_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_rifle_0_entity_desert"
+    clone = "CHI_vehicle_infantry_rifle_0_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_rifle_0_entity_snow"
+    clone = "CHI_vehicle_infantry_rifle_0_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_rifle_1_entity"
+    clone = "CHI_vehicle_infantry_rifle_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_rifle_1_entity_desert"
+    clone = "CHI_vehicle_infantry_rifle_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_rifle_1_entity_snow"
+    clone = "CHI_vehicle_infantry_rifle_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_2_entity"
+    clone = "CHI_vehicle_infantry_mg_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_2_entity_desert"
+    clone = "CHI_vehicle_infantry_mg_2_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_2_entity_snow"
+    clone = "CHI_vehicle_infantry_mg_2_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_3_entity"
+    clone = "CHI_vehicle_infantry_mg_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_3_entity_desert"
+    clone = "CHI_vehicle_infantry_mg_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_3_entity_snow"
+    clone = "CHI_vehicle_infantry_mg_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_4_entity"
+    clone = "CHI_vehicle_infantry_mg_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_4_entity_desert"
+    clone = "CHI_vehicle_infantry_mg_4_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_4_entity_snow"
+    clone = "CHI_vehicle_infantry_mg_4_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_5_entity"
+    clone = "CHI_vehicle_infantry_mg_5_entity"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_5_entity_desert"
+    clone = "CHI_vehicle_infantry_mg_5_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_vehicle_infantry_mg_5_entity_snow"
+    clone = "CHI_vehicle_infantry_mg_5_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_entity"
+    clone = "CHI_motorized_entity"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_entity_desert"
+    clone = "CHI_motorized_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_entity_snow"
+    clone = "CHI_motorized_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_0_entity"
+    clone = "CHI_motorized_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_0_entity_desert"
+    clone = "CHI_motorized_0_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_0_entity_snow"
+    clone = "CHI_motorized_0_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_1_entity"
+    clone = "CHI_motorized_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_1_entity_desert"
+    clone = "CHI_motorized_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_1_entity_snow"
+    clone = "CHI_motorized_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_2_entity"
+    clone = "CHI_motorized_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_2_entity_desert"
+    clone = "CHI_motorized_2_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_2_entity_snow"
+    clone = "CHI_motorized_2_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_3_entity"
+    clone = "CHI_motorized_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_3_entity_desert"
+    clone = "CHI_motorized_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_3_entity_snow"
+    clone = "CHI_motorized_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_4_entity"
+    clone = "CHI_motorized_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_4_entity_desert"
+    clone = "CHI_motorized_4_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_4_entity_snow"
+    clone = "CHI_motorized_4_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_5_entity"
+    clone = "CHI_motorized_5_entity"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_5_entity_desert"
+    clone = "CHI_motorized_5_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_5_entity_snow"
+    clone = "CHI_motorized_5_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_motorized_vehicle_entity"
+    clone = "CHI_motorized_vehicle_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_1_entity"
+    clone = "CHI_mech_vehicle_infantry_mg_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_1_entity_desert"
+    clone = "CHI_mech_vehicle_infantry_mg_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_1_entity_snow"
+    clone = "CHI_mech_vehicle_infantry_mg_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_2_entity"
+    clone = "CHI_mech_vehicle_infantry_mg_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_2_entity_desert"
+    clone = "CHI_mech_vehicle_infantry_mg_2_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_2_entity_snow"
+    clone = "CHI_mech_vehicle_infantry_mg_2_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_3_entity"
+    clone = "CHI_mech_vehicle_infantry_mg_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_3_entity_desert"
+    clone = "CHI_mech_vehicle_infantry_mg_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_3_entity_snow"
+    clone = "CHI_mech_vehicle_infantry_mg_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_4_entity"
+    clone = "CHI_mech_vehicle_infantry_mg_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_4_entity_desert"
+    clone = "CHI_mech_vehicle_infantry_mg_4_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mech_vehicle_infantry_mg_4_entity_snow"
+    clone = "CHI_mech_vehicle_infantry_mg_4_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_entity"
+    clone = "CHI_mechanized_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_entity_desert"
+    clone = "CHI_mechanized_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_entity_snow"
+    clone = "CHI_mechanized_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_0_entity"
+    clone = "CHI_mechanized_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_0_entity_desert"
+    clone = "CHI_mechanized_0_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_0_entity_snow"
+    clone = "CHI_mechanized_0_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_1_entity"
+    clone = "CHI_mechanized_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_1_entity_desert"
+    clone = "CHI_mechanized_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_1_entity_snow"
+    clone = "CHI_mechanized_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_3_entity"
+    clone = "CHI_mechanized_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_3_entity_desert"
+    clone = "CHI_mechanized_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_3_entity_snow"
+    clone = "CHI_mechanized_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_4_entity"
+    clone = "CHI_mechanized_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_4_entity_desert"
+    clone = "CHI_mechanized_4_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_4_entity_snow"
+    clone = "CHI_mechanized_4_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_vehicle_0_entity"
+    clone = "CHI_mechanized_vehicle_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_vehicle_1_entity"
+    clone = "CHI_mechanized_vehicle_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mechanized_vehicle_2_entity"
+    clone = "CHI_mechanized_vehicle_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_0_entity"
+    clone = "CHI_mountaineers_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_0_entity_desert"
+    clone = "CHI_mountaineers_0_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_0_entity_snow"
+    clone = "CHI_mountaineers_0_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_1_entity"
+    clone = "CHI_mountaineers_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_1_entity_desert"
+    clone = "CHI_mountaineers_1_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_1_entity_snow"
+    clone = "CHI_mountaineers_1_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_2_entity"
+    clone = "CHI_mountaineers_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_2_entity_desert"
+    clone = "CHI_mountaineers_2_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_2_entity_snow"
+    clone = "CHI_mountaineers_2_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_3_entity"
+    clone = "CHI_mountaineers_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_3_entity_desert"
+    clone = "CHI_mountaineers_3_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_3_entity_snow"
+    clone = "CHI_mountaineers_3_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_4_entity"
+    clone = "CHI_mountaineers_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_4_entity_desert"
+    clone = "CHI_mountaineers_4_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_4_entity_snow"
+    clone = "CHI_mountaineers_4_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_5_entity"
+    clone = "CHI_mountaineers_5_entity"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_5_entity_desert"
+    clone = "CHI_mountaineers_5_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_mountaineers_5_entity_snow"
+    clone = "CHI_mountaineers_5_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_gun_1_entity"
+    clone = "CHI_artillery_gun_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_gun_2_entity"
+    clone = "CHI_artillery_gun_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_gun_3_entity"
+    clone = "CHI_artillery_gun_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_entity"
+    clone = "CHI_artillery_entity"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_entity_desert"
+    clone = "CHI_artillery_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_entity_snow"
+    clone = "CHI_artillery_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_brigade_0_entity"
+    clone = "CHI_artillery_brigade_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_brigade_1_entity"
+    clone = "CHI_artillery_brigade_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_artillery_brigade_2_entity"
+    clone = "CHI_artillery_brigade_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_antitank_gun_entity"
+    clone = "CHI_antitank_gun_entity"
+}
+
+entity = {
+    name = "YUN_KMT_anti_tank_entity"
+    clone = "CHI_anti_tank_entity"
+}
+
+entity = {
+    name = "YUN_KMT_anti_tank_entity_desert"
+    clone = "CHI_anti_tank_entity_desert"
+}
+
+entity = {
+    name = "YUN_KMT_anti_tank_entity_snow"
+    clone = "CHI_anti_tank_entity_snow"
+}
+
+entity = {
+    name = "YUN_KMT_paratrooper_0_entity"
+    clone = "CHI_paratrooper_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_paratrooper_1_entity"
+    clone = "CHI_paratrooper_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_paratrooper_2_entity"
+    clone = "CHI_paratrooper_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_paratrooper_3_entity"
+    clone = "CHI_paratrooper_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_paratrooper_4_entity"
+    clone = "CHI_paratrooper_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_paratrooper_5_entity"
+    clone = "CHI_paratrooper_5_entity"
+}
+
+entity = {
+    name = "YUN_KMT_marine_0_entity"
+    clone = "CHI_marine_0_entity"
+}
+
+entity = {
+    name = "YUN_KMT_marine_1_entity"
+    clone = "CHI_marine_1_entity"
+}
+
+entity = {
+    name = "YUN_KMT_marine_2_entity"
+    clone = "CHI_marine_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_marine_3_entity"
+    clone = "CHI_marine_3_entity"
+}
+
+entity = {
+    name = "YUN_KMT_marine_4_entity"
+    clone = "CHI_marine_4_entity"
+}
+
+entity = {
+    name = "YUN_KMT_marine_5_entity"
+    clone = "CHI_marine_5_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_entity"
+    clone = "CHI_bicycle_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_rifle_combined_entity"
+    clone = "CHI_bicycle_rifle_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_rider_rifle_entity"
+    clone = "CHI_bicycle_rider_rifle_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_rider_rifle_desert"
+    clone = "CHI_bicycle_rider_rifle_desert"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_rider_rifle_snow"
+    clone = "CHI_bicycle_rider_rifle_snow"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_vehicle_entity"
+    clone = "CHI_bicycle_vehicle_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_2_entity"
+    clone = "CHI_bicycle_2_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_mg_combined_entity"
+    clone = "CHI_bicycle_mg_combined_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_rider_mg_entity"
+    clone = "CHI_bicycle_rider_mg_entity"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_rider_mg_desert"
+    clone = "CHI_bicycle_rider_mg_desert"
+}
+
+entity = {
+    name = "YUN_KMT_bicycle_rider_mg_snow"
+    clone = "CHI_bicycle_rider_mg_snow"
+}
+
+
+
+

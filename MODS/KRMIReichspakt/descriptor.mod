@@ -4,4 +4,5 @@ tags={
 	"Graphics"
 }
 name="KRMI Reichspakt"
-supported_version="1.17.1.1"
+supported_version="1.17.3.0"
+remote_file_id="3657492574"
