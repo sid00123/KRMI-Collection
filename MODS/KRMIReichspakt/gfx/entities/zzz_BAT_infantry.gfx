@@ -625,7 +625,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_rifle_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_1.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_1.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_rifle_attack_animation" }
@@ -652,7 +652,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_rifle_snow_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_1_snow.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_1_snow.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_rifle_attack_animation" }
@@ -679,7 +679,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_rifle_1_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_2.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_2.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_rifle_attack_animation" }
@@ -706,7 +706,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_rifle_1_snow_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_2_snow.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_2_snow.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_rifle_attack_animation" }
@@ -733,7 +733,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_mg_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_2.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_2.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }
@@ -760,7 +760,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_mg_snow_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_2_snow.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_2_snow.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }
@@ -787,7 +787,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_mg_2_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_3.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_3.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }
@@ -814,7 +814,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_BAT_cavalry_mg_2_snow_mesh"
-		file = "gfx/models/units/MI_BAT_cavalry_3_snow.mesh"
+		file = "gfx/models/units/MI_LIT_cavalry_3_snow.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }

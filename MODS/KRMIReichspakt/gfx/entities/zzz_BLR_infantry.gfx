@@ -1006,7 +1006,7 @@ objectTypes = {
 
 objectTypes = {
 	pdxmesh = {
-		name = "MI_BAT_marine_rifle_1_mesh"
+		name = "MI_BLR_marine_rifle_1_mesh"
 		file = "gfx/models/units/MI_BAT_marine_1.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
@@ -1035,7 +1035,7 @@ objectTypes = {
 
 objectTypes = {
 	pdxmesh = {
-		name = "MI_BAT_marine_rifle_1_desert_mesh"
+		name = "MI_BLR_marine_rifle_1_desert_mesh"
 		file = "gfx/models/units/MI_BAT_marine_1_desert.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
@@ -1064,7 +1064,7 @@ objectTypes = {
 
 objectTypes = {
 	pdxmesh = {
-		name = "MI_BAT_marine_rifle_1_snow_mesh"
+		name = "MI_BLR_marine_rifle_1_snow_mesh"
 		file = "gfx/models/units/MI_BAT_marine_1_snow.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }

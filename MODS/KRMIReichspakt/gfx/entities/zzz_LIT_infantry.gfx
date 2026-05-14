@@ -846,7 +846,7 @@ objectTypes = {
 ###############
 
 objectTypes = {
-	# Only MI_LIT_mountaineer_1(.snow) and MI_LIT_mountaineer_3(.snow) meshes ship with the mod, so higher tiers reuse them.
+	# Only MI_LIT_mountaineer_1(.snow) meshes ship with the mod, so higher tiers reuse them.
 
 	pdxmesh = {
 		name = "MI_LIT_mountaineer_rifle_mesh"
@@ -900,7 +900,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_LIT_mountaineer_mg_mesh"
-		file = "gfx/models/units/MI_LIT_mountaineer_3.mesh"
+		file = "gfx/models/units/MI_LIT_mountaineer_1.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }
@@ -925,7 +925,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_LIT_mountaineer_mg_snow_mesh"
-		file = "gfx/models/units/MI_LIT_mountaineer_3_snow.mesh"
+		file = "gfx/models/units/MI_LIT_mountaineer_1_snow.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }
@@ -950,7 +950,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_LIT_mountaineer_mg_2_mesh"
-		file = "gfx/models/units/MI_LIT_mountaineer_3.mesh"
+		file = "gfx/models/units/MI_LIT_mountaineer_1.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }
@@ -975,7 +975,7 @@ objectTypes = {
 
 	pdxmesh = {
 		name = "MI_LIT_mountaineer_mg_2_snow_mesh"
-		file = "gfx/models/units/MI_LIT_mountaineer_3_snow.mesh"
+		file = "gfx/models/units/MI_LIT_mountaineer_1_snow.mesh"
 
 		animation = { id = "idle"			 type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			 type = "GER_infantry_mg_attack_animation" }

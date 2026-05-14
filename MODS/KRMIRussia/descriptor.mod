@@ -4,4 +4,4 @@ tags={
 	"Graphics"
 }
 name="KRMI Russia"
-supported_version="1.17.3.0"
+supported_version="1.18.*"

@@ -728,7 +728,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "MI_POL_cavalry_mg_3_snow_mesh"
-		file = "gfx/models/units/MI_POL_cavalry_3_snow.mesh"
+		file = "gfx/models/units/MI_POL_cavalry_2_snow.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_mg_attack_animation" }
@@ -815,7 +815,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "MI_POL_cavalry_mg_4_snow_mesh"
-		file = "gfx/models/units/MI_POL_cavalry_3_snow.mesh"
+		file = "gfx/models/units/MI_POL_cavalry_2_snow.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_mg_attack_animation" }

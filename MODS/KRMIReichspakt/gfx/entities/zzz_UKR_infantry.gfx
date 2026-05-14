@@ -1213,7 +1213,7 @@ objectTypes = {
 objectTypes = {
 	pdxmesh = {
 		name = "MI_UKR_motorized_rifle_0_desert_mesh"
-		file = "gfx/models/units/MI_UKR_infantry_1_.mesh"
+		file = "gfx/models/units/MI_UKR_infantry_1.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_rifle_attack_animation" }
